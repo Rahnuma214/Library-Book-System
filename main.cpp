@@ -7,7 +7,6 @@
 
 using namespace std;
 
-// Book structure for Doubly Linked List
 struct Book {
     int id;
     string title;
